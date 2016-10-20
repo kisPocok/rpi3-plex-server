@@ -195,6 +195,6 @@ Use local domain name instead of ip. It will be available in your private networ
 
 ##### Original article, sources, see more:
 
-https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2016/03/11/a-more-powerful-plex-media-server-using-raspberry-pi-3
+* https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2016/03/11/a-more-powerful-plex-media-server-using-raspberry-pi-3
 
-http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
+* http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
