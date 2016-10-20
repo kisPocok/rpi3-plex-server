@@ -148,7 +148,9 @@ Example: `http://192.168.1.1:32400/web`
 ### Mount network storage to RPI
 
 Properly Mount USB Storage on Raspberry Pi
+
 http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
+
 
 Create a mounting directory
 
