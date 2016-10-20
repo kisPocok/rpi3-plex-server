@@ -147,7 +147,8 @@ Example: `http://192.168.1.1:32400/web`
 
 ### Mount network storage to RPI
 
-[Properly Mount USB Storage on Raspberry Pi][http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/]
+Properly Mount USB Storage on Raspberry Pi
+http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
 
 Create a mounting directory
 
@@ -192,6 +193,7 @@ Use local domain name instead of ip. It will be available in your private networ
 
 
 
-##### Original article, sources:
+##### Original article, sources, see more:
 
 https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2016/03/11/a-more-powerful-plex-media-server-using-raspberry-pi-3
+http://www.htpcguides.com/properly-mount-usb-storage-raspberry-pi/
