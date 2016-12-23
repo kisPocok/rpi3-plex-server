@@ -161,7 +161,7 @@ sudo mkdir /mnt/library
 Mount network storage. Use proper credentials. Storage's IP, username and password.
 
 ```shell
-//192.168.1.2/Data /mnt/library cifs user=REMOTE_USERNAME,pass=REMOTE_PASS,rw,uid=1000,iocharset=utf8,sec=ntlm 0 0
+sudo mount //192.168.1.2/Data /mnt/library cifs user=REMOTE_USERNAME,pass=REMOTE_PASS,rw,uid=1000,iocharset=utf8,sec=ntlm 0 0
 ```
 
 Restart your RPI again.
