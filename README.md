@@ -163,6 +163,10 @@ Mount network storage. Use proper credentials. Storage's IP, username and passwo
 ```shell
 sudo mount //192.168.1.2/Data /mnt/library cifs user=REMOTE_USERNAME,pass=REMOTE_PASS,rw,uid=1000,iocharset=utf8,sec=ntlm 0 0
 ```
+or use the new version:
+```shell
+sudo mount -t cifs -o iocharset=utf8,noperm,file_mode=0666,dir_mode=0777,user=REMOTE_USERNAME,pass=REMOTE_PASS,rw,uid=1000,sec=ntlm //192.168.1.2/Data /mnt/library
+```
 
 Restart your RPI again.
 
